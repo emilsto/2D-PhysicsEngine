@@ -12,3 +12,7 @@ Planned features:
 
 - [] Dots collision physics
 - [] Add dots on mouse click
+
+Known bugs:
+
+- After a while border collision physics fail and ball lags out of canvas
